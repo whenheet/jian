@@ -4,8 +4,8 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
   Icon = "rbxassetid://108228172425291",
   Duration = 1,
   Callback = bindable,
-  Button1 = "尊贵的大司马脚本付费版",
-  Button2 = "感谢您的使用",
+  Button1 = "小光你全家死了",
+  Button2 = "傻逼小光😂",
 })
 wait(1.5)
 game:GetService("StarterGui"):SetCore("SendNotification", {
