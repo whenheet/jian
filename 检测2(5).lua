@@ -4,8 +4,8 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
   Icon = "rbxassetid://108228172425291",
   Duration = 1,
   Callback = bindable,
-  Button1 = "小光你全家死了",
-  Button2 = "傻逼小光😂",
+  Button1 = "副作者小云",
+  Button2 = "猫王有亩",
 })
 wait(1.5)
 game:GetService("StarterGui"):SetCore("SendNotification", {
