@@ -4,8 +4,8 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
   Icon = "rbxassetid://108228172425291",
   Duration = 1,
   Callback = bindable,
-  Button1 = "副作者小云",
-  Button2 = "猫王有亩",
+  Button1 = "作者大司马",
+  Button2 = "副作者小云",
 })
 wait(1.5)
 game:GetService("StarterGui"):SetCore("SendNotification", {
