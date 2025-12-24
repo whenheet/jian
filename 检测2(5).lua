@@ -75,6 +75,12 @@ local GameScripts = {
     [8316902627] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenheet/zhiwudazhan/refs/heads/main/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E8%84%91%E7%BA%A2.lua', true))()", -- 植物大战脑红
     [8305240030] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenheet/-qigai/refs/heads/main/%E6%88%90%E4%B8%BA%E4%B9%9E%E4%B8%90.lua', true))()", -- 成为乞丐
     [994732206] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenheet/ceshi/refs/heads/main/bf%E6%B7%B7%E6%B2%8C.lua', true))()", -- BF
+    [5750914919] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenhee/yu/refs/heads/main/Fisch.lua', true))()", --鱼
+    [4987856151] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenhee/tongji/refs/heads/main/%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%B1%82.lua', true))()", -- 正在寻求
+    [3754482795] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenhee/yuansu/refs/heads/main/yuansu', true))()", -- 元素力量大亨
+    [6369934270] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenhee/yinhcang/refs/heads/main/%E9%9A%90%E8%97%8F%E6%88%96%E6%AD%BB%E4%BA%A1.lua', true))()", -- 隐藏或死亡
+    [6705549208] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenhee/digit/refs/heads/main/dig', true))()", -- dig
+    [4777817887] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenhee/daorenqiu/refs/heads/main/%E5%88%80%E5%88%83%E7%90%83(2).lua', true))()", -- 刀刃球
     [605887098] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenheet/qiche/refs/heads/main/%E6%B1%BD%E8%BD%A6%E7%BB%8F%E9%94%80%E5%A4%A7%E4%BA%A8.lua', true))()", -- 汽车营销大亨                            
     [6331902150] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/whenheet/by/refs/heads/main/%E5%A4%A7%E5%8F%B8%E9%A9%AC%E8%84%9A%E6%9C%AC%E4%BB%98%E8%B4%B9%E7%89%88%E8%A2%AB%E9%81%97%E5%BC%83%E8%84%9A%E6%9C%AC.lua', true))()", -- 被遗弃
 }
