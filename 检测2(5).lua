@@ -5,7 +5,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
   Duration = 1,
   Callback = bindable,
   Button1 = "作者大司马",
-  Button2 = "副作者小云",
+  Button2 = "猫王有亩",
 })
 wait(1.5)
 game:GetService("StarterGui"):SetCore("SendNotification", {
